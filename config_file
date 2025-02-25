@@ -1,0 +1,3 @@
+[profile test]
+role_arn = arn:aws:iam::<acct>:role:ManagedAdminRole
+credentials_source = Ec2InstanceMetadata
